@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1920
     height: 997
   m_ShowMode: 4
-  m_Title: Scene
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 300}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 679, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 64
+  controlID: 128
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -68,8 +68,8 @@ MonoBehaviour:
     y: 0
     width: 388
     height: 947
-  m_MinSize: {x: 276, y: 71}
-  m_MaxSize: {x: 4001, y: 4021}
+  m_MinSize: {x: 275, y: 50}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 18
+  controlID: 137
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 403, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 19
+  controlID: 138
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -379,22 +379,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Levels
+    - Assets/Footstep(Snow and Grass)/StepsLoop/grass/running
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Levels
+  - Assets/Footstep(Snow and Grass)/StepsLoop/grass/running
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Amy\Documents\GitHub\Castaways
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: 60410000
-    m_LastClickedID: 16736
-    m_ExpandedIDs: 00000000424100004441000046410000484100004a41000046450000484500004a4500009045000000ca9a3b
+    m_SelectedIDs: a4450000
+    m_LastClickedID: 17828
+    m_ExpandedIDs: 000000007a4100007c4100007e41000080410000824100008441000086410000884100008a4100009c450000ae450000b445000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -422,7 +422,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000424100004441000046410000484100004a410000
+    m_ExpandedIDs: 000000007a4100007c4100007e41000080410000824100008441000086410000884100008a410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -542,10 +542,10 @@ MonoBehaviour:
   m_ViewDataDictionary: {fileID: 0}
   m_SceneHierarchy:
     m_TreeViewState:
-      scrollPos: {x: 0, y: 21}
-      m_SelectedIDs: 
-      m_LastClickedID: 0
-      m_ExpandedIDs: 1ac6ffffd6cbffff74d1ffff9ed1ffff6cddffff0ee5ffffeef8ffff52fbffff48420000ea42000060620000
+      scrollPos: {x: 0, y: 0}
+      m_SelectedIDs: e6eeffff
+      m_LastClickedID: -4378
+      m_ExpandedIDs: c0f8ffff52fbffff78420000
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -605,9 +605,9 @@ MonoBehaviour:
   m_PlayAudio: 0
   m_AudioPlay: 0
   m_Position:
-    m_Target: {x: -9.534002, y: -5.7821546, z: -3.05096}
+    m_Target: {x: -2.377069, y: -9.716814, z: 2.175503}
     speed: 2
-    m_Value: {x: -9.534002, y: -5.7821546, z: -3.05096}
+    m_Value: {x: -2.377069, y: -9.716814, z: 2.175503}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -656,11 +656,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.40209156, y: 0.09797986, z: -0.04346941, w: -0.90920925}
     speed: 2
-    m_Value: {x: -0.40076163, y: 0.09805333, z: -0.04332615, w: -0.90988934}
+    m_Value: {x: -0.402126, y: 0.09798825, z: -0.043473136, w: -0.90928715}
   m_Size:
-    m_Target: 9.822326
+    m_Target: 11.208905
     speed: 2
-    m_Value: 9.822326
+    m_Value: 11.208905
   m_Ortho:
     m_Target: 0
     speed: 2

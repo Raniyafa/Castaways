@@ -9,7 +9,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{0F88335A-A4BB-23F2-845D-FA46244A3E65}</ProjectGuid>
+    <ProjectGuid>{53081602-71C5-C7E4-852D-787870ECDA05}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -53,8 +53,15 @@
     <UnityVersion>2020.3.14f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\Player 1\Movement.cs" />
-    <Compile Include="Assets\Scripts\Player 1\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Player lvl3\PlayerMovement3.cs" />
+    <Compile Include="Assets\Scripts\Player lvl1\PlayerMovement.cs" />
+    <Compile Include="Assets\Scripts\Player lvl2\Movement2.cs" />
+    <Compile Include="Assets\Scripts\Player lvl2\PlayerMovement2.cs" />
+    <Compile Include="Assets\Scripts\Player lvl1\Movement.cs" />
+    <Compile Include="Assets\Scripts\Player lvl3\Movement3.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Assets\Scene Animations\UrbanNightSky\Readme.txt" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="UnityEngine">

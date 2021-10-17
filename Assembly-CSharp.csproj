@@ -53,12 +53,12 @@
     <UnityVersion>2020.3.14f1</UnityVersion>
   </PropertyGroup>
   <ItemGroup>
+    <Compile Include="Assets\Scripts\Player lvl3\PlayerMovement3.cs" />
     <Compile Include="Assets\Scripts\Player lvl1\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Player lvl2\Movement2.cs" />
     <Compile Include="Assets\Scripts\Player lvl2\PlayerMovement2.cs" />
     <Compile Include="Assets\Scripts\Player lvl1\Movement.cs" />
     <Compile Include="Assets\Scripts\Player lvl3\Movement3.cs" />
-    <Compile Include="Assets\Scripts\Player lvl3\PlayerMovement3.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scene Animations\UrbanNightSky\Readme.txt" />

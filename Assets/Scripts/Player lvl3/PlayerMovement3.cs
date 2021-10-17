@@ -10,12 +10,14 @@ public class PlayerMovement3 : MonoBehaviour
     void Start()
     {
         anim = GetComponent<Animator>();
+        
     }
 
 
     void Update()
-    {
-        if (Input.GetButtonDown("Jump"))
+    {   
+
+    if (Input.GetButtonDown("Jump"))
         {
             anim.SetTrigger("isJumping");
         }

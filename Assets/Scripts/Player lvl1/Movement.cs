@@ -13,13 +13,19 @@ public class Movement : MonoBehaviour
 
     private void FixedUpdate()
     {
-        Vector3 forwardMove = transform.forward * speed * Time.fixedDeltaTime;
-        Vector3 horizontalMove = transform.right * horizontalInput * speed * Time.fixedDeltaTime;
-        rb.MovePosition(rb.position + forwardMove + horizontalMove);
+        
+            Vector3 forwardMove = transform.forward * speed * Time.fixedDeltaTime;
+            Vector3 horizontalMove = transform.right * horizontalInput * speed * Time.fixedDeltaTime;
+            rb.MovePosition(rb.position + forwardMove + horizontalMove);
+        
     }
     void Update()
     {
-        horizontalInput = Input.GetAxis("Horizontal");
+       
+        
+    horizontalInput = Input.GetAxis("Horizontal");
+        
+
 
         if (Input.GetKeyDown(KeyCode.Space))
         {

@@ -59,6 +59,9 @@
     <Compile Include="Assets\Scripts\Player lvl2\PlayerMovement2.cs" />
     <Compile Include="Assets\Scripts\Player lvl1\Movement.cs" />
     <Compile Include="Assets\Scripts\Player lvl3\Movement3.cs" />
+    <Compile Include="Assets\Scripts\Player lvl2\PauseMenulvl2.cs" />
+    <Compile Include="Assets\Scripts\Player lvl3\PauseMenulvl3.cs" />
+    <Compile Include="Assets\Scripts\Player lvl1\PauseMenulvl1.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scene Animations\UrbanNightSky\Readme.txt" />

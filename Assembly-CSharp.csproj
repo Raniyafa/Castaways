@@ -58,12 +58,15 @@
     <Compile Include="Assets\Scripts\Player lvl1\PauseMenulvl1.cs" />
     <Compile Include="Assets\Scripts\Player lvl1\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Player lvl2\Movement2.cs" />
+    <Compile Include="Assets\Scene Animations\ColorSkies\Demo\Scripts\LookCamera.cs" />
     <Compile Include="Assets\Scripts\Player lvl2\PlayerMovement2.cs" />
     <Compile Include="Assets\Scripts\Player lvl1\Movement.cs" />
     <Compile Include="Assets\Scripts\Player lvl3\Movement3.cs" />
-    <Compile Include="Assets\Scripts\Player lvl3\PauseMenulvl3.cs" />
     <Compile Include="Assets\Scene Animations\ColorSkies\Demo\Scripts\SkyboxChanger.cs" />
-    <Compile Include="Assets\Scene Animations\ColorSkies\Demo\Scripts\LookCamera.cs" />
+    <Compile Include="Assets\Scripts\Player lvl3\PauseMenulvl3.cs" />
+    <Compile Include="Assets\Scripts\Playerlvl4\Movement4.cs" />
+    <Compile Include="Assets\Scripts\Playerlvl4\PlayerMovement4.cs" />
+    <Compile Include="Assets\Scripts\Playerlvl4\PauseMenu4.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\Scene Animations\UrbanNightSky\Readme.txt" />

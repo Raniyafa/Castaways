@@ -19,7 +19,7 @@ MonoBehaviour:
     width: 1366
     height: 685
   m_ShowMode: 4
-  m_Title: Project
+  m_Title: Game
   m_RootView: {fileID: 6}
   m_MinSize: {x: 875, y: 542}
   m_MaxSize: {x: 10000, y: 10000}
@@ -48,7 +48,7 @@ MonoBehaviour:
   m_MinSize: {x: 579, y: 492}
   m_MaxSize: {x: 14002, y: 14042}
   vertical: 0
-  controlID: 1468
+  controlID: 19
 --- !u!114 &3
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -226,7 +226,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 492}
   m_MaxSize: {x: 10001, y: 14042}
   vertical: 1
-  controlID: 1469
+  controlID: 127
 --- !u!114 &10
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -251,7 +251,7 @@ MonoBehaviour:
   m_MinSize: {x: 303, y: 221}
   m_MaxSize: {x: 8003, y: 4021}
   vertical: 0
-  controlID: 1470
+  controlID: 128
 --- !u!114 &11
 MonoBehaviour:
   m_ObjectHideFlags: 52
@@ -468,22 +468,22 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/Levels
+    - Assets/Scene Animations/ColorSkies/Skies
     m_Globs: []
     m_OriginalText: 
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/Levels
+  - Assets/Scene Animations/ColorSkies/Skies
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\Users\Ajay\Documents\GitHub\Castaways
   m_LockTracker:
     m_IsLocked: 0
   m_FolderTreeState:
-    scrollPos: {x: 0, y: 0}
-    m_SelectedIDs: d4580000
-    m_LastClickedID: 22740
-    m_ExpandedIDs: 00000000b8580000ba580000bc580000be580000c0580000c2580000c4580000c6580000c8580000ca580000cc580000d2580000d4580000e2580000e4580000e8580000ea580000da5c0000465d00008e630000ee82000000ca9a3b
+    scrollPos: {x: 0, y: 335}
+    m_SelectedIDs: 4e490000
+    m_LastClickedID: 18766
+    m_ExpandedIDs: 00000000aa410000ac410000ae410000b0410000b2410000b4410000b6410000b8410000ba410000bc410000be410000c0410000c2410000c4410000c6410000c8410000ca410000cc410000ce410000d0410000f2410000264200004649000000ca9a3b
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -511,7 +511,7 @@ MonoBehaviour:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs: 
     m_LastClickedID: 0
-    m_ExpandedIDs: 00000000b8580000ba580000bc580000be580000c0580000c2580000c4580000c6580000c8580000ca580000cc580000
+    m_ExpandedIDs: 00000000aa410000ac410000ae410000b0410000b2410000b4410000b6410000b8410000ba410000bc410000be410000c0410000c2410000c4410000c6410000c8410000ca410000cc410000ce410000d0410000
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -632,9 +632,9 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs: 0a590000
+      m_SelectedIDs: 4e490000
       m_LastClickedID: 0
-      m_ExpandedIDs: 2cb3ffff08b5ffffdcb7ffff30bbffff04beffffb2bfffffb8c3ffff8cc6ffff02cbffff06ceffff6ad8ffff0cdcffffece6ffff5ae9ffff
+      m_ExpandedIDs: 52fbffff
       m_RenameOverlay:
         m_UserAcceptedRename: 0
         m_Name: 
@@ -745,7 +745,7 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: -0.38472405, y: 0.5166205, z: -0.27908936, w: -0.7121461}
     speed: 2
-    m_Value: {x: -0.38473323, y: 0.51663285, z: -0.279096, w: -0.7121631}
+    m_Value: {x: -0.38472402, y: 0.5166205, z: -0.27908936, w: -0.71214604}
   m_Size:
     m_Target: 19.77739
     speed: 2

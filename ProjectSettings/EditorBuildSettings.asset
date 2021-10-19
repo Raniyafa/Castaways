@@ -21,6 +21,9 @@ EditorBuildSettings:
     path: Assets/RPG_inventory/043Lose.unity
     guid: 9af805611ebf0dd42a2dfd20dcd2e7e5
   - enabled: 1
+    path: Assets/RPG_inventory/MainMenu.unity
+    guid: 7ca55fe4a787e45a1b22337781732f30
+  - enabled: 1
     path: Assets/RPG_inventory/060ShopBuy.unity
     guid: b6698413ec61aec4a93ff2f94d45f288
   - enabled: 1
